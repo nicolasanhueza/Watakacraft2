@@ -1,4 +1,10 @@
 {
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-04-16 23:52:31 -0400"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-04-16 23:52:37 -0400"
@@ -38,12 +44,6 @@
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2025-04-16 23:52:37 -0400"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2025-04-16 23:52:31 -0400"
     },
     "done": true
   },
@@ -95,12 +95,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "scrubland": "2025-04-16 23:54:01 -0400"
-    },
-    "done": true
-  },
   "giacomos_fishing_net:recipes/misc/unlock_fishmeal_from_pufferfish": {
     "criteria": {
       "has_fishes": "2025-04-16 23:52:37 -0400"
@@ -140,18 +134,6 @@
   "mcwfences:recipes/oak": {
     "criteria": {
       "has_oak": "2025-04-16 23:52:37 -0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-04-16 23:54:01 -0400"
-    },
-    "done": false
-  },
-  "corail_dt:tutorial/root": {
-    "criteria": {
-      "auto": "2025-04-16 23:52:38 -0400"
     },
     "done": true
   },
@@ -209,11 +191,149 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/root": {
+    "criteria": {
+      "auto": "2025-04-16 23:52:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna": "2025-04-16 23:52:38 -0400"
     },
     "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-04-16 23:54:01 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-04-16 23:54:01 -0400"
+    },
+    "done": false
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/rough_rod2": {
+    "criteria": {
+      "has_item": "2025-04-17 19:41:08 -0400"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
