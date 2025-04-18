@@ -215,24 +215,6 @@
     },
     "done": false
   },
-  "mcwfurnitures:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-04-17 19:42:57 -0400"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_wood": "2025-04-17 19:42:57 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-17 19:42:53 -0400"
-    },
-    "done": true
-  },
   "silentgear:recipes/misc/rough_rod2": {
     "criteria": {
       "has_item": "2025-04-17 19:41:08 -0400"
@@ -248,12 +230,6 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-17 19:41:55 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 19:42:57 -0400"
     },
     "done": true
   },
@@ -281,12 +257,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia": {
-    "criteria": {
-      "has_planks": "2025-04-17 19:42:57 -0400"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-04-17 19:41:55 -0400"
@@ -299,9 +269,51 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:41:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-04-17 19:42:53 -0400"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 19:42:57 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-04-17 19:42:57 -0400"
     },
     "done": true
   },
@@ -314,18 +326,6 @@
   "mcwwindows:recipes/acacia": {
     "criteria": {
       "has_wood": "2025-04-17 19:42:57 -0400"
-    },
-    "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-04-17 19:42:53 -0400"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-04-17 19:41:55 -0400"
     },
     "done": true
   },
